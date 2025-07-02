@@ -1,6 +1,6 @@
 # 🧠 Semiconductor Manufacturing Chatbot (RAG + Text-to-SQL)
 
-This project is a 1-week POC to build a Retrieval-Augmented Generation (RAG) chatbot that helps engineers and analysts interact with semiconductor manufacturing data using natural language.
+Retrieval-Augmented Generation (RAG) chatbot that helps engineers and analysts interact with semiconductor manufacturing data using natural language.
 
 ## 🚀 Features
 
